@@ -21,11 +21,5 @@
 	},
 	"permissions": [
 		"storage"
-	],
-	"browser_specific_settings": {
-      		"gecko": {
-          		"id": "favourite-colour-examples@mozilla.org",
-          		"strict_min_version": "57.0a1"
-      		}
-  	}
+	]
 }
